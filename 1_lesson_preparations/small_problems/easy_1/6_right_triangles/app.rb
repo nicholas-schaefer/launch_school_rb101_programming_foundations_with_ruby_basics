@@ -17,4 +17,4 @@ def triangle length_of_string
     end
 end
 
-triangle 6
+triangle 7
